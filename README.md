@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Lioympas!
-- 👀 Backend (mostly) Software Engineer/ PHP / Laravel 
+- 👀 Backend (mostly) Software Engineer / PHP / Laravel 
 - 🌱 I’m currently learning Github Actions in depth
 - 📫 My [Linkedin Profile](https://www.linkedin.com/in/george-lioympas/)
 
