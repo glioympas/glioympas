@@ -13,7 +13,7 @@
 ### Backend Technologies, I've worked with
 
 - Laravel & PHP ( 🔥 🔥 🔥 🔥 🔥 )
-- MySQL, MariaDB
+- MySQL, MariaDB, MongoDB
 - Redis (Queues & Caching)
 - Elasticsearch
 - Rest & GraphQL
