@@ -2,16 +2,39 @@
 
 - 👋 Hello! I am George Lioumpas, a software engineer from Kozani, Greece.
 
-- 💻 Passion for software using Laravel, PHP & more tools.
+- 💻 Passion for software using Laravel, PHP & more tools. 
 
 - 💙 Really enjoying writing meaningful tests, using PHPUnit & it's Laravel super-powered version.
 
-- 🧰 Can also write Frontend (Vue) if I have to & on my free time I practice DevOps stuff ( CI/CD, Docker deployments, etc ). Knowing how the things tight together, I find it really helpful making me a better developer.
+- 💚 Impressed with our nowdays "container driven" tech world, specifically with Docker.   
+
+- 🧰 Can also write Frontend (Vue) if I have to & on my free time I practice DevOps stuff ( CI/CD, Docker deployments, etc ). Just having an idea how the things tight together, I find it really helpful and makes you a better developer IMO. 
+
+### Backend Technologies, I've worked with
+
+- Laravel & PHP ( 🔥 🔥 🔥 🔥 🔥 )
+- MySQL, MariaDB
+- Redis (Queues & Caching)
+- Elasticsearch
+- Rest & GraphQL
+- Wordpress CMS / WooCommerce
+
+### Frontend Technologies, I've worked with
+- HTML5 & CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+- Vue
+
+### Others 
+
+- Linux
+- Docker
+- nginx web server
+- Git, Github & Gitlab
+- Slack
+- Jira
+- AWS ( S3, EC2 )
 
 - 📫 My [Linkedin Profile](https://www.linkedin.com/in/george-lioympas/)
 
-
-<!---
-glioympas/glioympas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
