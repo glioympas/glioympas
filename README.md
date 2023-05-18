@@ -1,7 +1,10 @@
-- 👋 Hello! I am George Lioumpas, a software engineer.
+## George Lioumpas - Software Engineer
+
+- 👋 Hello! I am George Lioumpas, a software engineer from Kozani, Greece.
+
 - 💻 Passion for software using Laravel, PHP & more tools.
-- 💙 Love to write meaningful tests, using PHPUnit & it's Laravel super powered version.
-- 🧰 Can also write Frontend (Vue) if I have to & on my free time I practice DevOps stuff ( CI/CD, Docker deployments, etc ). Knowing the big picture of all, I find it really helpful.
+- 💙 Really enjoying writing meaningful tests, using PHPUnit & it's Laravel super-powered version.
+- 🧰 Can also write Frontend (Vue) if I have to & on my free time I practice DevOps stuff ( CI/CD, Docker deployments, etc ). Knowing how the things tight together, I find it really helpful making me a better developer.
 - 📫 My [Linkedin Profile](https://www.linkedin.com/in/george-lioympas/)
 
 <!---
