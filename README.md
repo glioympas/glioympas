@@ -36,5 +36,6 @@
 - Jira
 - AWS ( S3, EC2 )
 
-- 📫 My [Linkedin Profile](https://www.linkedin.com/in/george-lioympas/)
+
+📫 My [Linkedin Profile](https://www.linkedin.com/in/george-lioympas/)
 
