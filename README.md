@@ -17,7 +17,7 @@
 - Redis (Queues & Caching)
 - Elasticsearch
 - Rest & GraphQL
-- Wordpress CMS / WooCommerce
+- Wordpress CMS / WooCommerce (previously)
 
 ### Frontend Technologies, I've worked with
 - HTML5 & CSS3
