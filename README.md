@@ -4,7 +4,7 @@
   
 - 💙 Passion for software using Laravel, PHP & other tools.
 
-- 💻 Currently experimenting with Go & Software Arhitecture.
+- 💻 Currently experimenting with Go & Software Architecture.
 
 
 📫 My [Linkedin Profile](https://www.linkedin.com/in/george-lioympas/)
