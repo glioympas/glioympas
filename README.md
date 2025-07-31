@@ -4,6 +4,5 @@
   
 - 💙 Passion for software using Laravel, PHP & other tools.
 
-
 📫 My [Linkedin Profile](https://www.linkedin.com/in/george-lioympas/)
 
